@@ -1,1 +1,1 @@
-exports.sro = require('./src/scrapper');
+exports.rastrearObjeto = require('./src/scrapper');

@@ -6,20 +6,20 @@ Através desta biblioteca você será capaz de recuperar o status, data, origem 
 
 # Instalando
 ```shell
-npm i rastreamento-correios
+npm i brazuka-correios
 ```
 ou
 ```shell
-yarn add rastreamento-correios
+yarn add brazuka-correios
 ```
 
 <br>
 
 # Rastreando um objeto
 ```js
-const correios = require('rastreamento-correios')
+const correios = require('brazuka-correios')
  
-correios.sro.rastrearObjeto('QF123456789BR').then(function(res){
+correios.rastrearObjeto('QF123456789BR').then(function(res){
     console.log(res)
 })
 ```

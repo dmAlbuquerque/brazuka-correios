@@ -1,12 +1,14 @@
 {
   "name": "brazuka-correios",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Biblioteca para o Rastreamento de Objetos dos Correios.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "correios","rastreamento","brazil","brasil","pacotes","objetos","brazuka"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
