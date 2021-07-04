@@ -1,16 +1,20 @@
 {
   "name": "brazuka-correios",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Biblioteca para o Rastreamento de Objetos dos Correios.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "correios","rastreamento","brazil","brasil","pacotes","objetos","brazuka"
+    "correios","rastreamento","rastreamento-pacotes","rastreamento-encomendas","rastreio","brazil","brasil","pacotes","objetos","brazuka"
   ],
-  "author": "",
+  "author": "Daniel Albuquerque",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmAlbuquerque/brazuka-correios/issues"
+  },
+  "homepage": "https://github.com/dmAlbuquerque/brazuka-correios#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "request": "^2.88.2"

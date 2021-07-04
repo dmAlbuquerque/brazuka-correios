@@ -47,12 +47,6 @@ correios.rastrearObjeto('QF123456789BR').then(function(res){
       "data": "Data: 03/07/2021 | Hora: 16:55",
       "origem": "Origem: Unidade Operacional - Fortaleza / CE",
       "destino": "Destino: Agência dos Correios - Frecheirinha / CE"
-    },
-    {
-      "status": "Status: Objeto em trânsito - por favor aguarde",
-      "data": "Data: 03/07/2021 | Hora: 16:55",
-      "origem": "Origem: Unidade Operacional - Fortaleza / CE",
-      "destino": "Destino: Agência dos Correios - Frecheirinha / CE"
     }
   ],
   "status_code": 200
